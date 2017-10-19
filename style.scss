@@ -191,7 +191,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $black;
   font-size: 20px;
   font-family: $content-font;
 
@@ -255,7 +255,7 @@ nav {
   }
 
   .author{
-    text-align: right;
+    text-align: center;
     margin: 10px 0px 40px 0px;
     font-style: italic;
     font-size: 24px;
@@ -282,7 +282,7 @@ footer {
 }
 
 .site-avatar {
-    width: 256px;
+    width: 512px;
     height: 256px;
 
     @include mobile {
