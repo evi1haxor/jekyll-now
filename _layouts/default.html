@@ -37,21 +37,20 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
-    <div class="wrapper-footer">
       <div class="container">
         <a href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" class="site-avatar" /></a>
       </div>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          <i>Nothing Worth Come Easy.</i>
+        </footer>
+      </div> 
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
-      </div>
-      <div class="container">
-        <footer class="footer">
-          Thought of the Day: Never mess with me.
-        </footer>
-      </div>  
+      </div> 
     </div>
 
     {% include analytics.html %}
