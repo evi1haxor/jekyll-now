@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Evi1haxor do not replies to typical text[exceptions may exist!]
 
-### More Information
+### BEWARE! Devil's Ahead..
 
-A place to include any other types of information that you'd like to include about yourself.
+Do your research before contacting me.
 
-### Contact me
+### Contact me[ONLY IF I ASKED TO]
 
-[email@domain.com](mailto:email@domain.com)
+[@evi1haxor(github)](http://github.com/evi1haxor)
+[@evi1haxor(tgc)](http://t.me/E1ixir)
+[@evi1haxor(tg)](http://t.me/evi1haxor)
