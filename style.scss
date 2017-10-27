@@ -74,7 +74,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: overline;
+  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -123,7 +123,7 @@ img {
   padding: 40px 0 80px 0px;
   border-bottom: 2px solid $lightGray;
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 
 // Specify the color of the selection
@@ -165,7 +165,7 @@ img {
 
   @include mobile {
     padding: 60px 0px 30px 0px;
-    text-align: center;
+    text-align: right;
   }
 }
 
@@ -181,7 +181,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $gray;
+  color: $dimGray;
   cursor: pointer;
   font-family: $fancy;
   font-weight: 300;
@@ -191,9 +191,9 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $black;
+  color: $gray;
   font-size: 20px;
-  font-family: $CourierNew;
+  font-family: $content-font;
 
   @include mobile {
     font-size: 18px;
