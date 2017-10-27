@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ę̶1͘͟͝i̧͘͡x̀͢͝í̷̵̵̛ŗ̴̀͘͜
+name: E1iXir
 
 # Short bio or description (displayed in the header)
-description: By the father of the Universe- E̛͏҉v̛̛̕͟í̸͘͠͏1̵̶̡h͟͏a̧̡̨͡x̛̀͝͡͡o̡̧͠r 
+description: That will plunge you onto the Zenith and beyond!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/evi1haxor/evi1haxor.github.io/master/images/signature.png
 #
@@ -23,7 +23,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss asked to type ANYTHING
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
