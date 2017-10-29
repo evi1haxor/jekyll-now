@@ -20,7 +20,7 @@ Whatsoever you see, didn't just showed up on clarion call. It took painstaking e
 Just after the big bang, nothing was stable. not even a photon was there, neither anything featuring some negatively charged particles shackled around an equally positively charge particle now known as atom of some element. Gradually surroundings ebbed, surging electrons captured by the proton. Thenceforth, formed first stable atom of hydrogen. The atoms started to drawn to each other making large and dense clound clusters. Density that Helium atoms started to form. Now clounds had hydrogen and helium. These clouds eventually started getting denser and denser, untill get so hot, that nuclear reactions started to occur. Therefrom, first star was born! Stars, formed...presto they go nova! These were massive and short lived. They used to collect so much matter that they went so massive and dense that they eventually explode and sprew themselves out loud! Early universe was occupied by this cycle of star formation and novae. But this cumbersome didn't go idle. this was the period when elements like carbon, silicon, sulphur, nitrogen and other not-so-predominant(on cosmic perspective) elements formed. These elements formed rocks, ice chunks which we see in comets now, and other molecules.
 As the universe expanded, this rigorous cycle of star formation and explosion slowed down. Stars, now tend to live longer that the early universe. 
 
-I can go on and on and on...in a single post already! So I think I should desist this post to stockpile some content for my future post  :simple_smile: 
+I can go on and on and on...in a single post already! So I think I should desist this post to stockpile some content for my future post :smiley: 
 
 ### Next Post Spoiller
 
