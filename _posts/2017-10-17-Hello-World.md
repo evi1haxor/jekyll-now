@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Blog post COMING SOON!
+title: First Blog post **COMING SOON**!
 author: evi1haxor
 ---
 
