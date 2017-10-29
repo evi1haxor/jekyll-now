@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the way it is, the Way it is?!
+title: Why the way is it, the Way it is?!
 author: evi1haxor
 ---
 
