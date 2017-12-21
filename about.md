@@ -4,14 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Evi1haxor do not replies to typical text[exceptions may exist!]
+Evi1haxor does not replies to typical text[exception may exist!]
 
-### BEWARE! Devil's Ahead..
+# The Sixth Horseman
+#### *Assume all that greeting courtesy here*
+My name is Archit Dwivedi(AKA, Evi1haxor)..and I'm the fastest brain alive. To the outside world I act as an ordinary dumbass, autistic and ambitious 'a who' but secretly with the help of me and only me, I try to escape from the  woning where I unknowingly or knowingly go to dwell what the hell I'm doing and for what goddamn purpose!! 
+By the way, what 'the flash' is up to!?!
 
-Do your research before contacting me.
+Anyways, this blog I made(apparantly) just out of interest. No any zeal for traffic. But no loss in having some. Content is written in first person by me, with appropriate credit courteousness on references of thoughts and writings of other writers.
 
-### Contact me[ONLY IF I ASKED TO]
+I would like to suggest the readers to not to be obliged for blindly following  recommendations (including this :p), and accepting the facts I mentioned here without going sceptic.
 
-[@evi1haxor(github)](http://github.com/evi1haxor)
-[@evi1haxor(tgc)](http://t.me/E1ixir)
-[@evi1haxor(tg)](http://t.me/evi1haxor)
+Whenever you feel an urge to behave like anything that disrespect the 4 billion years of painstaking evolution, you can go right into the hell anytime.
+
+With respect, 
+
+             this isn't arrogance...it's ecnagorrA!
+             
+             
+Heil Evi1haxor!
+
+## Contact me[ONLY IF I ASKED TO]
+
+[github](http://github.com/evi1haxor)
+[E1ixir- Telegram](http://t.me/E1ixir)
+[Evi1haxor- Telegram](http://t.me/evi1haxor)
