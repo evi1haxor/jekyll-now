@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Evi1haxor does not replies to typical text[exception may exist!]
+Evi1haxor does not replies to typical text[exceptions may exist!]
 
 # The Sixth Horseman
 ##### *Assume all that greeting courtesy here*
@@ -27,5 +27,8 @@ Heil Evi1haxor!
 ## Contact me[ONLY IF I ASKED TO]
 
 [github](http://github.com/evi1haxor)
+
 [E1ixir- Telegram](http://t.me/E1ixir)
+
 [Evi1haxor- Telegram](http://t.me/evi1haxor)
+--------------------------------------------
