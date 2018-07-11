@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Evi1haxor does not replies to typical text[exceptions may exist!]
+Evi1haxor does not reply to typical text[exceptions may exist!]
 
 # The Sixth Horseman
 ##### *Assume all that greeting courtesy here*
